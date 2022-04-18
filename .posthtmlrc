@@ -17,6 +17,10 @@
             "value": "You might know that “The Nose” is the official unofficial nickname for the Illustrations team at Spectator, but do you truly know what makes it nose-worthy? This Easter season, we are divulging the details camouflaged in the most shadowy corners of our illustrators’ pieces that just make “scents.” In the spirit of being nosy—of learning more about the artistic visions and quirks of our team—we picked our illustrators’ brains on the vision and rationale behind the hidden details, images, and references, or “Easter eggs’’ in their illustrations. While these Easter eggs sometimes contain references to the article they accompany, they are also, more often than not, personal to the illustrator or connect to topics that are completely unrelated to Spec. The following selection contains just a few of the hidden details you may have missed within our illustrations. So put on your spec-tacles, and enjoy the hunt! Who “nose” what you might sniff out next?"
           },
           {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
             "type": "image",
             "value": {
               "width": "",
@@ -229,10 +233,11 @@
             "value": "<a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2022/02/10/from-his-deck-to-the-dance-floor-kofi-meighan-seas-23-on-djing-identity-creating-a-vibe-and-pushing-boundaries-through-music/\">From his deck to the dance floor: Kofi Meighan, SEAS ’23, on DJing, identity, creating a vibe, and pushing boundaries through music</a>"
           }
         ],
-        "headline": "Easter eggs of Spectator’s Illustrations team: Who “nose” what you might have missed?",
-        "date": "April 16, 2022",
-        "byline": "By Spectator Illustrations Team <br>Edited by Yingjie Wang <br>Produced by Patrick Puma",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/A3UKOHXJHZG6JG5JKDYKIVTPIU.jpg",
+        "cover_caption": "Illustration by Yingjie Wang",
+        "headline": "Easter eggs of Spectator’s Illustrations team: Who “nose” what you might have missed?",
+        "date": "April 17, 2022",
+        "byline": "By Spectator Illustrations Team <br>Edited by Yingjie Wang <br>Produced by Patrick Puma",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": true,

@@ -144,7 +144,7 @@ b {
 }
 
 .cover-caption {
-  margin: 7px auto 60px;
+  margin: 7px auto ;
   font-size: 15px;
   font-family: $georgia;
   color: #888;
@@ -436,7 +436,7 @@ header {
 
   img {
     width: 55%;
-    margin-left: 20%;
+    margin-left: 22.5%;
   }
 
   .image-caption-text {
@@ -446,7 +446,7 @@ header {
     margin: 7px 0 0 0;
     padding: 0 $gbody-padding / 2;
     line-height: 1.3;
-    margin-left: 20%;
+    margin-left: 22.5%;
 
     .image-credit {
       color: #999;
