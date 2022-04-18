@@ -19,16 +19,27 @@ function init() {
 /* These are selectors for important elements */
 
 // SECTION_MAIN_SELECTOR is the node on the page we want to replace
-const SECTION_MAIN_SELECTOR = 'div#fusion-app';
+const SECTION_MAIN_SELECTOR = 'section#main';
 
 // ARTICLE_SELECTOR is where Arc Publishing puts the actual article content
-const ARTICLE_SELECTOR = 'div#fusion-app > div > div';
+const ARTICLE_SELECTOR =
+  '.pb-f-article-article-body > .row > .col-xs-12 > .ab-article-body > .ab-article-content > article';
+
+// The comment section is accidentally destroyed in the hoisting process, so
+// we want to store it away and add it back later
+const COMMENTS_SELECTOR = '.pb-f-article-disqus-new';
 
 function hoistArticle() {
   // Store nodes of interest
   const sectionMain = document.querySelector(SECTION_MAIN_SELECTOR);
   const article = document.querySelector(ARTICLE_SELECTOR);
+  const comments = document.querySelector(COMMENTS_SELECTOR);
+
+  // Replace section#main with article
   sectionMain.parentNode.replaceChild(article, sectionMain);
+
+  // Append comment section after article
+  article.parentNode.insertBefore(comments, article.nextSibling);
 
   // Arc server-side-renders elements like links and meta tags in Spectate's index.html <head>
   // into a paragraph, which takes up unwanted space thanks to Arc's CSS. Let's remove it.
@@ -45,13 +56,12 @@ function hoistArticle() {
 }
 
 // Runs hoistArticle() and stops RAF when necessary elements exist.
-// Stops after 3 seconds of trying.
-const TRY_TIME = 3000;
+// Stops after 5 seconds of trying.
+const TRY_TIME = 5000;
 let start = null;
 function prepareHoist(timestamp) {
-  if (document.body) {
-    if (document.querySelector(SECTION_MAIN_SELECTOR)) hoistArticle();
-    else init();
+  if (document.body && document.querySelector(SECTION_MAIN_SELECTOR)) {
+    hoistArticle();
     return;
   }
   if (timestamp - (start || (start = timestamp)) < TRY_TIME) {

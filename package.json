@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "illo-easter",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
   "devDependencies": {
     "cssnano": "^4.1.10",
     "eslint": "^7.0.0",
-    "parcel-bundler": "^1.12.3",
+    "parcel-bundler": "^1.12.4",
     "patch-package": "^6.2.2",
     "posthtml-expressions": "^1.4.0",
     "posthtml-include": "^1.4.3",
@@ -31,8 +31,8 @@
   "spectate": {
     "USE_NEWS_NAV": true,
     "USE_EYE_NAV": false,
-    "USE_COVER_HED": false,
+    "USE_COVER_HED": true,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1mavGSUTPiEJ4B4ZyaEdogVU9oA1iw5sLjB1oKJMAWXk/edit#"
   }
 }

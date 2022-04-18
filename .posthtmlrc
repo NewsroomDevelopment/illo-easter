@@ -7,12 +7,237 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "“Who knows the Nose?”"
+          },
+          {
+            "type": "text",
+            "value": "You might know that “The Nose” is the official unofficial nickname for the Illustrations team at Spectator, but do you truly know what makes it nose-worthy? This Easter season, we are divulging the details camouflaged in the most shadowy corners of our illustrators’ pieces that just make “scents.” In the spirit of being nosy—of learning more about the artistic visions and quirks of our team—we picked our illustrators’ brains on the vision and rationale behind the hidden details, images, and references, or “Easter eggs’’ in their illustrations. While these Easter eggs sometimes contain references to the article they accompany, they are also, more often than not, personal to the illustrator or connect to topics that are completely unrelated to Spec. The following selection contains just a few of the hidden details you may have missed within our illustrations. So put on your spec-tacles, and enjoy the hunt! Who “nose” what you might sniff out next?"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HSJAJHR6LFA2NOHJRPIB6YALHQ.JPG",
+              "caption": "Illustration by Ji Yoon Sim"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/36WJNHE56VFHLKFC26JD2FACQM.jpg",
+              "caption": "Illustration by Ji Yoon Sim"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Ji Yoon:</b> This is the illustration for “Columbia Conspiracies: The rats of 114th Street.” In the chaos of the conspiracy board, I added “The Nose” logo, our logo for the Illustrations team at Spectator, and a sticky note that says, “Welcome to the NOSE!”"
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/spectrum/2022/03/30/columbia-conspiracies-the-rats-of-114th-street/\">Columbia Conspiracies: The rats of 114th Street</a>"
+          },
+          {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YQPFLM6ENRFCZBYFOBTPGLOEYY.jpeg",
+              "caption": "Illustration by Liza Evseeva"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/W4H7TOW6MJHLJKQNF5DZE4KGMQ.png",
+              "caption": "Illustration by Liza Evseeva"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Liza:</b> When I made this illustration, I was still in the talking stage with my now-boyfriend, who is an economics major. I had to represent the different academic subjects, and I really wanted him to think I was funny, so I threw a “stonks” meme into the economics section. Now, our relationship still runs on jokes, and he’s one of the biggest supporters of my art!"
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/spectrum/2020/12/01/7-ways-to-reset-and-relax-between-finals/\">Seven ways to reset and relax between finals</a>"
+          },
+          {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PGH5XHBC5NH2FJI7UEJTQHRI2M.jpg",
+              "caption": "Illustration by Yingjie Wang"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/N3UYOXM2B5AYDGHHT56TLR6NUA.jpg",
+              "caption": "Illustration by Yingjie Wang"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Yingjie:</b> In the imagining of a modern New York City intellectual salon for the profile article about the Morningside Institute, stained glass windows and floor-to-ceiling bookshelves are quintessential furnishings. Amid the conversation and exchange, a lamp illuminates the space at the center of the illustration. Perched above the two lights, the owl gazing down is a reference to the owl logo of the Morningside Institute, tying the space together with the work and goals of the Institute."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2022/01/30/morningside-heights-best-kept-cultural-secret-the-morningside-institute/\">Morningside Heights’ best-kept cultural secret: the Morningside Institute</a>"
+          },
+          {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CDUBR36JGBGW3KXES72NELM2MU.png",
+              "caption": "Illustration by Carlos Sanchez-Tata"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Carlos:</b> For this illustration, the hearts and color palette were inspired by Daya Betty’s “Heart On” runway look from season 14 of “Rupaul’s Drag Race.” I wanted the drawing to feel child-like, almost as if a teenage girl drew it. With that in mind, I also took inspiration from the kitschy designs of Lisa Frank, who draws a lot of cute animals and hearts. These inspirations mainly influenced the color choices and rays of hearts for this Datamatch illustration."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2022/03/23/datamatch-did-it-work/\">Datamatch: Did it work?</a>"
+          },
+          {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "960px",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KQ47JY5RZBABHM7OTO2W5NFD4Y.png",
+              "caption": "Illustration by Noelle Hunter"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QB3TU3NQNVDRTPI5BAB2YFVKOM.jpg",
+              "caption": "Illustration by Noelle Hunter"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Noelle:</b> One of the contributing factors to the 1968 protests on campus was the proposed construction of a new University gym in Morningside Park, which was nicknamed “Gym Crow” due to its segregation of entrances—the main door served Columbia students, while the “back door” served Harlem residents. For this historical piece, I decided to create a watercolor interpretation of the design. The pathway leading up to the door represents the segregated “back door” entrance, and the stark contrast in facade colors indicates the extent of gym services that were available to Harlem residents—only a small portion of the bottom floor."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/sports/2022/02/15/gym-crow-looking-back-on-the-1968-morningside-gym-protests/\">‘Gym Crow’: Looking back on the 1968 Morningside Gym protests</a>"
+          },
+          {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "960px",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Z5ENU2SPNFD4HM634BDMSUHGXQ.png",
+              "caption": "Illustration by Sadia Sharif"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IMYUMIGJ3FGP3FEDDAGCBZ6TUQ.jpg",
+              "caption": "Illustration by Sadia Sharif"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Sadia:</b> Sometimes I sneak my friends into illustrations, and I thought they would be fitting for this one representing the types of people in Core Curriculum classes. My friend Kelley is the “Winging It” depiction for always doing well no matter what. Kuang is the “Devil’s Advocate” for being an enemy of professors and students—though he claims he’s respectful and only participates at most three times per class. Duan is “The Recurring Character” for always being everywhere. Ethan is “The Unicorn” for being way too good at everything."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/spectrum/2022/01/28/the-10-personalities-in-every-core-class/\">The 10 personalities in every Core class</a>"
+          },
+          {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "960px",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FXCMRAJJLVHDJB6H24OWQNJMAY.png",
+              "caption": "Illustration by Julian Michaud"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/R46FW7TUSVFHPN3PDSC23BISKU.jpg",
+              "caption": "Illustration by Julian Michaud"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Julian:</b> I used practice exams from my economics, biology, and electrical engineering classes to create a paper-textured background for an article about midterms and stress culture. Ironically, these exams were the main sources of my stress as I made this illustration about self-care during midterm season."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/spectrum/2021/11/08/living-with-stress-culture-self-care-after-midterms/\">Living with stress culture: Self-care after midterms</a>"
+          },
+          {
+            "type": "text",
+            "value": "<br>"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "960px",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NURPMZN4ONBZDMS5HNXNHFBOWE.jpeg",
+              "caption": "Illustration by Chiara Guigou"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GMMZSBLNW5BQLFGUSCNCHN4ZN4.jpg",
+              "caption": "Illustration by Chiara Guigou"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>Chiara:</b> Kofi’s experience as a DJ in New York City was particularly shaped by Brooklyn and, more specifically, by his role at Half Moon BK. To reference Kofi’s work as a radio host for the company, I wanted to use Brooklyn in the representation of New York City in the illustration. To that end, the skyline on the record at the bottom left of the piece is a view of Manhattan from Brooklyn."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2022/02/10/from-his-deck-to-the-dance-floor-kofi-meighan-seas-23-on-djing-identity-creating-a-vibe-and-pushing-boundaries-through-music/\">From his deck to the dance floor: Kofi Meighan, SEAS ’23, on DJing, identity, creating a vibe, and pushing boundaries through music</a>"
+          }
+        ],
+        "headline": "Easter eggs of Spectator’s Illustrations team: Who “nose” what you might have missed?",
+        "date": "April 16, 2022",
+        "byline": "By Spectator Illustrations Team <br>Edited by Yingjie Wang <br>Produced by Patrick Puma",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/A3UKOHXJHZG6JG5JKDYKIVTPIU.jpg",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1mavGSUTPiEJ4B4ZyaEdogVU9oA1iw5sLjB1oKJMAWXk/edit#"
       }
     }
   }
